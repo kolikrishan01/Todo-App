@@ -1,0 +1,16 @@
+
+.btn{
+    padding: 10px 25px;
+    border: .2px solid lightgray;
+    margin: 0 10px 0 0;
+    border-radius: 2px;
+}
+.active{
+    background-color: #15803D;
+    color: #ffff;
+    border: .2px solid lightgray;
+    transition: ease-in .1s;
+}
+.boxShadow{
+    box-shadow: rgba(132, 131, 131, 0.2) 0px 8px 24px;
+}
